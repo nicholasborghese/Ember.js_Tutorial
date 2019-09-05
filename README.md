@@ -1,57 +1,35 @@
-# ember-quickstart
+# Ember.js Quick Start Guide
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Author: Nicholas Borghese
 
-## Prerequisites
+This project was built following the Ember.js Quick Start Guide.
 
-You will need the following things properly installed on your computer.
+## Time spent
+ * Tutorials, research: 1 hour
+ * Coding required stories: 20 minutes
 
-* [Git](https://git-scm.com/)
-* [Node.js](https://nodejs.org/) (with npm)
-* [Ember CLI](https://ember-cli.com/)
-* [Google Chrome](https://google.com/chrome/)
+## User stories
 
-## Installation
+### Required
+ * [x] Created a /scientists route
+ * [x] Created a PeopleList component
+ * [x] Created buttons with click events
 
-* `git clone <repository-url>` this repository
-* `cd ember-quickstart`
-* `npm install`
+### Optional
 
-## Running / Development
+ * [x] Created a /programmers route
+ * [x] Built for production
+ * [ ] Deployed application
 
-* `ember serve`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
-* Visit your tests at [http://localhost:4200/tests](http://localhost:4200/tests).
+## GIF Walkthrough
 
-### Code Generators
+Markdown code to embed a GIF in your README file:
+```
+![Walkthrough GIF](path/to/gif.gif)
+```
 
-Make use of the many generators for code, try `ember help generate` for more details
+GIF created with [LiceCap](https://www.cockos.com/licecap/).
 
-### Running Tests
+## Notes & shoutouts
 
-* `ember test`
-* `ember test --server`
-
-### Linting
-
-* `npm run lint:hbs`
-* `npm run lint:js`
-* `npm run lint:js -- --fix`
-
-### Building
-
-* `ember build` (development)
-* `ember build --environment production` (production)
-
-### Deploying
-
-Specify what it takes to deploy your app.
-
-## Further Reading / Useful Links
-
-* [ember.js](https://emberjs.com/)
-* [ember-cli](https://ember-cli.com/)
-* Development Browser Extensions
-  * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
-  * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
+Was able to understand how to start coding in Ember.js by creating a new application, and adding routes and UI components.
